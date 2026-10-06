@@ -77,6 +77,16 @@
 
 // // Console.WriteLine("Дневник сохранён");
 
+// // int N = 7; 
+
+// // for (int i = 1; i <= 10; i++)
+// // {
+// //     Console.WriteLine($"{N} × {i} = {N * i}");
+// // }
+
+
+
+
 // Console.Write("Введите свою фамилию: "); 
 // string surname = Console.ReadLine()!.Trim(); 
 
@@ -96,13 +106,3 @@
 // Console.WriteLine($"Задачи: №{assigned[0]} и №{assigned[1]}"); 
 
 
-string total;
-int count = 0;
-
-while (true)
-{
-    Console.WriteLine("Введи символ:");
-    total = 
-
-}
-Console.WriteLine($"Кол-во символов {total}");
